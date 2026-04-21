@@ -6,6 +6,7 @@ It was developed as part of a Database course project and includes database desi
 
 ## Project Overview
 
+
 The system manages:
 
 - Movies
