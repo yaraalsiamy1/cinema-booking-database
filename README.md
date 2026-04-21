@@ -63,3 +63,14 @@ sql/
 
 docs/
 └── Database_Project.pdf
+```
+
+## Team Members
+
+This project was developed as a team collaboration:
+
+- [Lamar Ashraf](https://github.com/lamarashraf)  
+- [Sara A Bashawri](https://github.com/sarabashawri)  
+- Farah A Alhazmi  
+- [Yara Alsiamy](https://github.com/yaraalsiamy1)
+
